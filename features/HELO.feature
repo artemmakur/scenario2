@@ -1,5 +1,5 @@
 Feature:
-  <Some interesting descriptidasdasdasdasdason here>
+  <Some interesting interesting here>
 
   Scenario:
-    <Some interesting scenario stsfasfasfassfasdeps here>
+    <Some interesting interesting interesting here>
